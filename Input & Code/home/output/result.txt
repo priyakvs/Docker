@@ -1,0 +1,9 @@
+File names of all text files at location /home/data and word count of each file:
+ 319 W1C1.txt
+ 451 W1C2.txt
+ 770 total
+Grand total of number of words: 770
+File with highest word count:  451 W1C2.txt
+IP Address of the machine: 192.168.200.161
+User of machine: Priyadharshini,,,
+Full name: Priyadharshini Subramanian

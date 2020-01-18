@@ -1,0 +1,88 @@
+Cloud Systems Introduction
+(Mastering Cloud Computing: Chapter#1)
+Lalit Kumar
+
+ 
+As of now, computer networks are still in their infancy, but as they grow up and become sophisticated, we will probably see the spread of ‘computer utilities’ which, like present electric telephone utilities, will service individual homes and offices across the country.
+
+
+-Leonard Kleinrock, 1969, ARPANET
+
+ The Vision...
+IT/Non-IT Company
+Startup/New Company
+End User
+Office365, AdobePro ...
+Google App Engine ...
+AWS ...
+
+ Defining Cloud Computing
+
+Huh?
+It’s a Buzzword!
+Term for MANY ideas and concepts
+Cloud computing refers to both the applications delivered as services over the Internet and the hardware and software in the datacenters that provide those services. - Armburst
+
+Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. - NIST
+
+ Reese’s Definition (as a utility)
+The service is accessible via a Web browser or a Web services application programming interface (API)
+Zero capital expenditure is necessary to get started.
+You pay only for what you use as you use it.
+
+Buyya et. al., (Our text author)
+A cloud is a type of parallel and distributed system consisting of a collection of interconnected and virtualized computers that are dynamically provisioned and presented as one or more unified computing resources based on service-level agreements established through negotiation between the service provider and consumers.
+
+Existing Cloud
+AWS
+UC Infrastructure
+IT Industry / Banking System / NetFlix
+
+Evolution of Sharing on the Internet
+
+Reference Model
+
+Benefits to a regular business?
+No up-front commitments
+On-demand access
+Nice pricing (capital costs -> utility costs, no depreciation)
+Simplified app acceleration and scalability
+Efficient resource allocation
+Energy efficiency??
+Seamless creation and use of third-party services
+
+Benefits for Software Company going to SaaS
+No deployment issues (CDs, downloads, etc)
+No need to support multiple OSs
+Faster to market
+A/B testing of features
+Efficiency and reliability now key
+More efficient developers, just try it!
+
+Storms may be on the horizon...
+Security
+Confidentiality, Secrecy, Protection
+
+Legal
+Google/Facebook privacy
+Differing viewing laws
+
+Latency & Data Location (later)
+
+How did we get here?
+5 core technologies:
+
+Distributed Systems
+Virtualization
+Web 2.0
+Service-oriented computing
+Utility-oriented computing
+
+Emerging Cloud Trends
+Source: Forrester Research Inc, Forrester top 15 emerging technologies to watch
+Fog Computing & Edge Computing
+Containerization
+PaaS
+Security Automation & Orchestration
+Hybrid Wireless
+Fog computing is the idea of a distributed network that connects servers and end device. “Fog provides the missing link for what data needs to be pushed to the cloud, and what can be analyzed locally, at the edge,” (Speech and Image analysis by search engine)

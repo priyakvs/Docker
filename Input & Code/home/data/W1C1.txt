@@ -1,0 +1,93 @@
+Introduction to Cloud Computing
+CS - 5165/6065
+Lalit Kumar
+
+Class Overview
+Syllabus
+Why take this course?
+Assumed background
+Cloud Discussion
+
+About Instructor
+Lalit Kumar
+Email: kumarlt@mail.uc.edu
+Ph.D. Computer Science 
+University of Cincinnati
+LinkedIn : www.linkedin.com/in/lalit-kumar-7b6a3928
+
+
+Syllabus
+It’s floating in the cloud somewhere
+But you can access it
+
+Syllabus on Google Docs
+
+Word file posted on Canopy
+
+
+
+Why take Introduction to Cloud Computing
+This is where the cutting edge CS is!
+Industry is leading academia 
+Facebook, Google, Amazon, Microsoft, etc… all of them develop cloud infrastructure.
+Nearly any business can have benefit from cloud computing!
+It’s where the jobs are!
+Future of computing?
+
+Zettabyte Era (Will Cloud Computing Help?)
+Global IP traffic projection (CISCO)
+
+Is it wise to handle the situation using concentrated cluster of super powerful machines?
+Year
+Global Internet Traffic
+1997
+100 GB per hour
+2002
+100 GB per second
+2007
+2,000 GB per second
+2016
+26,600 GB per second
+2021
+105,800 GB per second
+Efficient way of processing data in this scenario?
+Source (CISCO): https://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/vni-hyperconnectivity-wp.html
+CAGR → Compound Annual Growth Rate 
+
+Data Volume (Will Cloud Computing Help?)
+Source (CISCO): https://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/vni-hyperconnectivity-wp.html
+Keeping track of data
+Distribute processing of data
+CAGR → Compound Annual Growth Rate 
+
+Emerging Tech. & Cloud Computing Role
+
+Cloud Infrastructure as a Service
+Gartner Magic Quadrant
+
+Cloud Computing and You
+‘Fill in the gaps’ of CS curriculum
+Introduce new jargon - more marketable
+Allow you to be more productive
+Understand large systems and build them
+Keys to the startup kingdom!
+
+Assumed Background (?)
+HTML / JavaScripting
+A Web Scripting language (PHP, Ruby, Perl, .Net, Python, Javascript)
+Unix/Linux CLI 
+Command-line: ls, cd, cp, scp, ssh
+Editors: Emacs/VI/VIM/Nano
+Moving files, compilation
+
+Assumed Background (?)
+Basic Networking: IP, HTTP, TCP, DNS
+How the internet works?
+Good programming skills in at least 1 language
+We’ll be using Python and Java
+Know what google.com is and how to use it!
+
+Definition : Cloud Computing
+
+ 
+What is Cloud Computing to you?
